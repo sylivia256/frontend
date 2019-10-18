@@ -1,0 +1,129 @@
+.main{
+    margin: 0px;
+}
+.div1{
+    display: flex;
+    background:linear-gradient(90deg, #3f0b09, #471a05);
+    margin: auto;
+}
+.innerdiv1{
+    display: flex;
+    margin-left: 5px;
+    padding-right: 600px;
+}
+.innerdiv2{
+    display: flex;
+    list-style-type: none;
+    margin: 0px;
+}
+.innerdiv4{
+    text-align: left;
+    background-color: rgb(41, 41, 43);
+  color: white;
+  margin: 0px;
+  padding: 15px;
+}
+.div2{
+    display: flex;
+    background-color:rgb(32, 30, 30);
+    margin: 0px;
+}
+.div4{
+    background-color:rgb(32, 30, 30);
+}
+.innerdiv5{
+    display: flex;
+    padding-right: 5px;
+}
+.innerdiv6{
+    display: flex;
+    background-color:rgb(32, 30, 30);
+    list-style-type: none;
+    display: flex;
+    padding-left: 200px;
+}
+.innerdiv7{
+    display: block;
+    background-color:rgb(32, 30, 30);
+    text-align: center;
+}
+.innerdiv8{
+    display: flex;
+    background-color:rgb(32, 30, 30);
+    margin: 0px;
+}
+input[type=text],
+input[type=email],
+input[type=password],
+select, textarea{
+    border:1px solid #ccc;
+    box-shadow: inset 0 1px 3px #ddd;
+    border-radius: 5px;
+    color: #222;
+    display: block;
+    padding: 10px 12px;
+}
+ul{
+    color:white;
+    text-align: center;
+    list-style-type: none;
+    display: flex;
+}
+li{
+    color:red;
+    padding: 10px;
+}
+.diagonal{
+    fill: #e66225;
+    height: 24px;
+    width: 98.8%;
+    position: absolute;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+a:link{
+    color:blue;
+    font-size: 30px;
+    text-decoration: none;
+}
+.button1{
+    background-color: rgb(170, 44, 44);
+    width: 100px;
+    height: 40px;
+    border: none;
+    border-radius: 40px;
+}
+.button2{
+    text-anchor:#fff;
+    background-color: rgb(170, 44, 44);
+    width: 70px;
+    height: 40px;
+    border: none;
+    border-radius: 40px;
+}
+.div4{
+    display: flex;
+    background-color:rgb(32, 30, 30);
+    margin: 0px;
+    border: 2px;
+}
+.div10{
+    display: flex;
+    margin-left: 0px;
+    padding-right: 900px;
+}
+.div20{
+    display: flex;
+    margin-left: 0px;
+    padding-right: 600px;
+}
+.div30{
+    margin: 0px;
+    width: 100%;
+    padding-right: 550px;
+}
+.div40{
+    margin: 0px;
+    width: 100%;
+    padd
+}
